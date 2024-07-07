@@ -55,7 +55,7 @@ num1 = None
 num2 = None
 
 root = TkinterDnD.Tk()
-root.title("Drag and Drop Images for Prediction")
+root.title("AI CALC")
 root.geometry("600x400")
 
 label1 = tk.Label(root, text="drop an image", bg="lightgray", width=30, height=10)
