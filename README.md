@@ -35,4 +35,4 @@ This project is a YouTube video summarizer that generates concise summaries of v
 - **Web Development with Streamlit**: Developed an interactive web application for proof of concept.
 
 ### Preview:
-![YouTube Summarizer](youtube_summarizer\image\youtube_summarizer_demo.png)
+![YouTube Summarizer](youtube_summarizer/image/youtube_summarizer_demo.png)
