@@ -1,3 +1,0 @@
-epileptic_seizure_recognition/model/*.safetensors filter=lfs diff=lfs merge=lfs -text
-epileptic_seizure_recognition/model/eeg-bert/*.safetensors filter=lfs diff=lfs merge=lfs -text
-C:/Users/simon/OneDrive/Documents/research/Artificial_Intelligence/epileptic_seizure_recognition/model/eeg-bert/model.safetensors filter=lfs diff=lfs merge=lfs -text
