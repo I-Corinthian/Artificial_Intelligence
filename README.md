@@ -69,8 +69,8 @@ Overall, this project is not only a technical achievement but also a demonstrati
 - To Generate model run `epileptic_seizer_recognition.py`
 - To evaluate the model run `evaluate.py`
 
-![Seizure Recognition](epileptic_seizure_recognition\img\eeg-0.png)
-![Seizure Recognition](epileptic_seizure_recognition\img\eeg-1.png)
+![Seizure Recognition](epileptic_seizure_recognition/img/eeg-0.png)
+![Seizure Recognition](epileptic_seizure_recognition/img/eeg-1.png)
 
 - **Red** indicates seizure
 - **Green** indicates normal
