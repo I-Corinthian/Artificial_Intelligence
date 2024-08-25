@@ -1,2 +1,3 @@
 epileptic_seizure_recognition/model/eeg-bert/*.safetensors
 epileptic_seizure_recognition\__pycache__
+epileptic_seizure_recognition\log
