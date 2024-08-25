@@ -76,8 +76,8 @@ next_button.pack(side=tk.LEFT)
 
 fig, ax = plt.subplots(figsize=(10, 6))  
 line, = ax.plot([], [], lw=2)
-ax.set_xlim(0, 180) 
-ax.set_ylim(-1000, 1000) 
+ax.set_xlim(0, 178) 
+ax.set_ylim(-1600, 1600) 
 ax.grid()
 
 canvas = FigureCanvasTkAgg(fig, master=root)
